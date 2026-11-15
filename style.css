@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fffdf7;
+  color: #222;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #1b6b3a; /* Green */
+}
+
+.navbar-brand, .nav-link {
+  color: #ffffff !important;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #f4c430 !important; /* Yellow */
+}
+
+/* Hero Banner */
+.hero-box {
+  background-color: #c8102e; /* Red */
+  color: white;
+  padding: 50px 20px;
+  text-align: center;
+  border-bottom: 6px solid #f4c430; /* Yellow */
+}
+
+/* Quick Info Box */
+.info-card {
+  background-color: #e6f4fa; /* Soft Blue */
+  border-left: 6px solid #2b7bba;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* Accent Highlight Box */
+.vibe-card {
+  background-color: #fce8f0; /* Soft Pink */
+  border-left: 6px solid #d94f8a;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+footer {
+  background-color: #1b6b3a;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 40px;
+}
